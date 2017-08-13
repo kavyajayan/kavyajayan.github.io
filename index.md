@@ -1,5 +1,5 @@
 ## Welcome to my homepage
-I am Kavya K Jayachandran, a student pursuing Computer Science and Engineering
+I am Kavya K Jayachandran
 
 ### Markdown
 
